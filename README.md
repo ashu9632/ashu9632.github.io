@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
- [![Hello](https://www.smileysapp.com/emojis/hi-smiley.png](👋)
- [](https://www.smileysapp.com/emojis/hi-smiley.png)
 <h3 align="center">A passionate Automation Test Engineer with great interest in DevOps</h3>
 
 - 🔭 I’m currently working on setting up Test Automation infrastructure on Cloud Platforms.
