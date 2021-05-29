@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Ashutosh Shukla</h1>
-![Visitor Count](https://profile-counter.glitch.me/ashu9632/count.svg)
+
 <h3 align="center">A passionate Automation Test Engineer with great interest in DevOps</h3>
 
 - 🔭 I’m currently working on setting up Test Automation infrastructure on Cloud Platforms.
@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning **Kubernetes, Ansible and ELK stack**
 
 - 💬 Ask me about **Designing Automation Frameworks**
+
+![Visitor Count](https://profile-counter.glitch.me/ashu9632/count.svg)
 
 
 <h3 align="left">Languages and Tools:</h3>
