@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ashutosh Shukla</h1>
 <h3 align="center">A passionate Automation Test Engineer with great interest in DevOps</h3>
 
-- 🔭 I’m currently working on [setting up infrastructure on GCP](projectlink)
+- 🔭 I’m currently working on setting up Test Automation infrastructure on Cloud Platforms.
 
-- 🌱 I’m currently learning **Kubernetes and ELK stack**
+- 🌱 I’m currently learning **Kubernetes, Ansible and ELK stack*
 
-- 👨‍💻 All of my projects are available at [pflink](pflink)
-
-- 📝 I regularly write articles on [blglink](blglink)
-
-- 💬 Ask me about **designing Automation Frameworks**
+- 💬 Ask me about **Designing Automation Frameworks**
 
 - 📫 How to reach me **ashu9632shukla@gmail.com**
 
-- 📄 Know about my experiences [resumelink](resumelink)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ashu-shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="ashu-shukla" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashu-shukla" target="_blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622289701~hmac=e770797c2e33e94a7f17c185a84092c2" alt="ashu-shukla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
