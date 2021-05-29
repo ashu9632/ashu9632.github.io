@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Ashutosh Shukla</h1>
-[![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
+![Visitor Count](https://profile-counter.glitch.me/{ashu9632}/count.svg)
 <h3 align="center">A passionate Automation Test Engineer with great interest in DevOps</h3>
 
 - 🔭 I’m currently working on setting up Test Automation infrastructure on Cloud Platforms.
